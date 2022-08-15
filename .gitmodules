@@ -1,0 +1,3 @@
+[submodule "av_survey"]
+	path = av_survey
+	url = git@github.com:smilexiaoyan/av_survey.git
